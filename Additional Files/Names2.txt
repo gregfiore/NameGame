@@ -1,0 +1,172 @@
+<key>General</key>
+<array>
+<string>Barack Obama</string>
+<string>Bill Clinton</string>
+<string>Bill Gates</string>
+<string>Bill O'Reilly</string>
+<string>Charlie Brown</string>
+<string>Dan Brown</string>
+<string>Diane Sawyer</string>
+<string>Donald Trump</string>
+<string>Dr. Seuss</string>
+<string>Edgar Allen Poe</string>
+<string>Emeril Lagasse</string>
+<string>Gandhi</string>
+<string>George W. Bush</string>
+<string>Gisele Bundchen</string>
+<string>Howard Stern</string>
+<string>J.K. Rowling</string>
+<string>James Patterson</string>
+<string>John F. Kennedy</string>
+<string>John Grisham</string>
+<string>Julia Child</string>
+<string>Katie Couric</string>
+<string>Kim Kardashian</string>
+<string>Mario Batali</string>
+<string>Mark Zuckerberg</string>
+<string>Mother Teresa</string>
+<string>Oprah Winfrey</string>
+<string>Princess Diana</string>
+<string>Rachael Ray</string>
+<string>Rush Limbaugh</string>
+<string>Stephen Hawking</string>
+<string>Steve Irwin</string>
+<string>Steve Jobs</string>
+<string>Wolfgang Puck</string>
+</array>
+<key>History</key>
+<array>
+<string>Abraham Lincoln</string>
+<string>Albert Einstein</string>
+<string>Aristotle</string>
+<string>Benjamin Franklin</string>
+<string>Christopher Columbus</string>
+<string>Cleopatra</string>
+<string>George Washington</string>
+<string>Helen Keller</string>
+<string>Houdini</string>
+<string>Isaac Newton</string>
+<string>Leonardo Da Vinci</string>
+<string>Martin Luther King</string>
+<string>Michelangelo</string>
+<string>Napoleon</string>
+<string>Neil Armstrong</string>
+<string>Pablo Piccaso</string>
+<string>Thomas Edison</string>
+<string>Thomas Jefferson</string>
+<string>Vincent Van Gogh</string>
+<string>William Shakespeare</string>
+</array>
+<key>Hollywood</key>
+<array>
+<string>Adam Sandler</string>
+<string>Adriana Lima</string>
+<string>Angelina Jolie</string>
+<string>Ashton Kutcher</string>
+<string>Bill Cosby</string>
+<string>Borat</string>
+<string>Brad Pitt</string>
+<string>Cameron Diaz</string>
+<string>Clint Eastwood</string>
+<string>Darth Vader</string>
+<string>Dave Chappelle</string>
+<string>David Letterman</string>
+<string>Denzel Washington</string>
+<string>Dr. Phil McGraw</string>
+<string>Elizabeth Taylor</string>
+<string>George Lucas</string>
+<string>Gwyneth Paltrow</string>
+<string>Halle Berry</string>
+<string>Heidi Klum</string>
+<string>Jack Black</string>
+<string>Jay Leno</string>
+<string>Jennifer Aniston</string>
+<string>Jerry Bruckheimer</string>
+<string>Jerry Seinfeld</string>
+<string>Jim Carrey</string>
+<string>Jodie Foster</string>
+<string>Johnny Depp</string>
+<string>Julia Roberts</string>
+<string>Kate Moss</string>
+<string>Kiefer Sutherland</string>
+<string>Larry the Cable Guy</string>
+<string>Leonardo DiCaprio</string>
+<string>Lindsay Lohan</string>
+<string>Marilyn Monroe</string>
+<string>Matthew Broderick</string>
+<string>Mel Brooks</string>
+<string>Morgan Freeman</string>
+<string>Nicole Kidman</string>
+<string>Pamela Anderson</string>
+<string>Paris Hilton</string>
+<string>Peter Jackson</string>
+<string>Ray Romano</string>
+<string>Reese Witherspoon</string>
+<string>Regis Philbin</string>
+<string>Renee Zellweger</string>
+<string>Ryan Seacrest</string>
+<string>Sarah Jessica Parker</string>
+<string>Scarlett Johansson</string>
+<string>Seth MacFarlane</string>
+<string>Simon Cowell</string>
+<string>Steven Spielberg</string>
+<string>The Olsen Twins</string>
+<string>Tom Cruise</string>
+<string>Tom Hanks</string>
+<string>Ty Pennington</string>
+<string>Tyra Banks</string>
+<string>Walt Disney</string>
+<string>Will Ferrell</string>
+<string>Will Smith</string>
+</array>
+<key>Music</key>
+<array>
+<string>Beyonce</string>
+<string>Britney Spears</string>
+<string>Bruce Springsteen</string>
+<string>Celine Dion</string>
+<string>Dave Matthews</string>
+<string>Elton John</string>
+<string>Elvis Presley</string>
+<string>Jennifer Lopez</string>
+<string>Jessica Simpson</string>
+<string>John Lennon</string>
+<string>Justin Timberlake</string>
+<string>Kanye West</string>
+<string>Kelly Clarkson</string>
+<string>Lady Gaga</string>
+<string>Ludwig van Beethoven</string>
+<string>Madonna</string>
+<string>Michael Jackson</string>
+<string>Mick Jagger</string>
+<string>Miles Davis</string>
+<string>Mozart</string>
+<string>Neil Diamond</string>
+<string>Paul McCartney</string>
+<string>Ray Charles</string>
+<string>Rod Stewart</string>
+<string>Sean (Diddy) Combs</string>
+<string>Steven Tyler</string>
+<string>Weird Al Yankovic</string>
+</array>
+<key>Sports</key>
+<array>
+<string>Alex Rodriguez</string>
+<string>Annika Sorenstam</string>
+<string>Carson Palmer</string>
+<string>David Beckham</string>
+<string>Derek Jeter</string>
+<string>Hank Aaron</string>
+<string>Kobe Bryant</string>
+<string>LeBron James</string>
+<string>Maria Sharapova</string>
+<string>Michael Jordan</string>
+<string>Michelle Wie</string>
+<string>Mohammad Ali</string>
+<string>Phil Mickelson</string>
+<string>Serena Williams</string>
+<string>Shaquille O'Neal</string>
+<string>Tiger Woods</string>
+<string>Tom Brady</string>
+<string>Venus Williams</string>
+</array>

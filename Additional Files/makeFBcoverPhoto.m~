@@ -1,0 +1,31 @@
+fid = fopen('/Users/gregfiore/Projects/NameGame/Additional Files/Names.txt','r');
+
+
+n_names = 50;
+
+maximum_text_size = 20;
+
+background_color = [208, 208, 208]/256;
+    
+text_color = 'w';
+
+fb_size = [851, 315];
+
+% Create the background image
+
+figure
+
+fig_pos = get(gcf,'Position');
+
+fig_pos(3) = fb_size(1);
+fig_pos(4) = fb_size(2);
+
+set(gcf,'Position',fig_pos);
+set(gcf,'Units','normalized');
+
+sizes = rand(n_names,3);
+
+for i = 1:n_names
+    temp = fgetl(fid);
+    text(size(i,1), size(i,2), temp
+
